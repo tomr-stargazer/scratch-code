@@ -1,6 +1,9 @@
 """
 Trying to figure out how to extract a rotated ellipse from a grid.
 
+This was key:
+http://math.stackexchange.com/questions/426150/what-is-the-general-equation-of-the-ellipse-that-is-not-in-the-origin-and-rotate
+
 """
 
 from __future__ import division
